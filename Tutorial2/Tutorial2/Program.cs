@@ -8,7 +8,8 @@
 
     static void Main(string[] args)
     {
-        Console.Write("Calculator\n");
+        
+        Console.Write("Calculator \n");
         AskUser();
     }
 
@@ -17,7 +18,7 @@
         Console.Write("Put first number: ");
         number_user1 = Convert.ToInt32(Console.ReadLine());
 
-        Console.Write("Put the operation: ");
+        Console.Write("Choose the operation (*,-,+,/) : ");
         sign = Console.ReadLine();
 
         Console.Write("Put second number: ");
