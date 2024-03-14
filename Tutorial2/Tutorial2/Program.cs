@@ -16,11 +16,13 @@ Console.WriteLine("Avarage number: "+avarage);
 static int MaxNumber(int[] arr)
 {
     int number = arr[0];
+
     for (int k = 1; k < arr.Length; k++)
     {
         if (arr[k] > number)
         {
             number = arr[k];
+            
         }
     }
 
