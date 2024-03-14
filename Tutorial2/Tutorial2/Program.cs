@@ -8,7 +8,7 @@
 
     static void Main(string[] args)
     {
-        Console.Write("Calculator");
+        Console.Write("Calculator\n");
         AskUser();
     }
 

@@ -1,0 +1,15 @@
+/Users/lenabohun/APBD_17/Tutorial2/Tutorial2/bin/Debug/net6.0/Tutorial2
+/Users/lenabohun/APBD_17/Tutorial2/Tutorial2/bin/Debug/net6.0/Tutorial2.deps.json
+/Users/lenabohun/APBD_17/Tutorial2/Tutorial2/bin/Debug/net6.0/Tutorial2.runtimeconfig.json
+/Users/lenabohun/APBD_17/Tutorial2/Tutorial2/bin/Debug/net6.0/Tutorial2.dll
+/Users/lenabohun/APBD_17/Tutorial2/Tutorial2/bin/Debug/net6.0/ref/Tutorial2.dll
+/Users/lenabohun/APBD_17/Tutorial2/Tutorial2/bin/Debug/net6.0/Tutorial2.pdb
+/Users/lenabohun/APBD_17/Tutorial2/Tutorial2/obj/Debug/net6.0/Tutorial2.csproj.AssemblyReference.cache
+/Users/lenabohun/APBD_17/Tutorial2/Tutorial2/obj/Debug/net6.0/Tutorial2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lenabohun/APBD_17/Tutorial2/Tutorial2/obj/Debug/net6.0/Tutorial2.AssemblyInfoInputs.cache
+/Users/lenabohun/APBD_17/Tutorial2/Tutorial2/obj/Debug/net6.0/Tutorial2.AssemblyInfo.cs
+/Users/lenabohun/APBD_17/Tutorial2/Tutorial2/obj/Debug/net6.0/Tutorial2.csproj.CoreCompileInputs.cache
+/Users/lenabohun/APBD_17/Tutorial2/Tutorial2/obj/Debug/net6.0/Tutorial2.dll
+/Users/lenabohun/APBD_17/Tutorial2/Tutorial2/obj/Debug/net6.0/ref/Tutorial2.dll
+/Users/lenabohun/APBD_17/Tutorial2/Tutorial2/obj/Debug/net6.0/Tutorial2.pdb
+/Users/lenabohun/APBD_17/Tutorial2/Tutorial2/obj/Debug/net6.0/Tutorial2.genruntimeconfig.cache
